@@ -33,9 +33,9 @@ python3 monty_hall.py
 
 ## Objectives
 <p align="justify"> 
-  This problem consists in a game where we have 3 doors, two of these doors are empty and one has a prize. The player must choose a port to his liking and then one of the ports that was not chosen by the player and that does not have the prize will be opened leaving the player with two options: continue with his port or change to the other port. It's common sense to believe that only because you have two doors the chance of hitting is 50%.
+  This problem consists in a game where we have 3 doors, two of these doors are empty and one has a prize. The player must choose a door to his liking and then one of the doors that was not chosen by the player and that does not have the prize will be opened leaving the player with two options: continue with his door or change to the other door. It's common sense to believe that only because you have two doors the chance of hitting is 50%.
 
-This project aims to demonstrate that the best choice for the second stage is to switch to the other port. And this can be demonstrated by this simulation, bringing a very big gain by making this choice, where the chance of hit goes from 33% to 66%.
+This project aims to demonstrate that the best choice for the second stage is to switch to the other door. And this can be demonstrated by this simulation, bringing a very big gain by making this choice, where the chance of hit goes from 33% to 66%.
 </p>
 
 <p align="center"> 
